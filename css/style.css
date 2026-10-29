@@ -83,7 +83,7 @@ p{
     max-width: 300px;
    justify-content: center;
    display: flex;
-  
+   gap:4px;
 }
 .rei{
     text-align: center;
